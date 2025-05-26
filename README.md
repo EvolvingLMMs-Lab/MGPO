@@ -1,6 +1,6 @@
 # High-Resolution Visual Reasoning via Multi-Turn Grounding-Based Reinforcement Learning
 
-[![MGPO](https://img.shields.io/badge/Blog-MGPO-blue)](https://www.notion.so/High-Resolution-Visual-Reasoning-via-Multi-Turn-Grounding-Based-Reinforcement-Learning-1ee5d3508b4b80e9ba2effa4f7598512?pvs=4)
+[![MGPO](https://img.shields.io/badge/Blog-MGPO-blue)](https://www.lmms-lab.com/posts/highres_visual_reasoning)
 
 <!-- Authors: [Xinyu Huang](https://xinyu1205.github.io/), [Yuhao Dong](https://scholar.google.com/citations?user=kMui170AAAAJ&hl=zh-CN), Wei Li, Jinming Wu, Zihao Deng, [Bo Li](https://brianboli.com/), Zejun Ma -->
 
@@ -41,5 +41,20 @@ Inspired by the human visual system's top-down, task-driven search, we propose *
 
 
 ## Training Code
-Code will be made public within one week.
 
+Our code is based on verl, training code and script are available at 
+
+https://github.com/xinyu1205/verl/blob/mgpo/examples/grpo_trainer/run_qwen2_5_vl-7b_mgpo.sh
+
+
+## Citation
+If you find our work to be useful for your research, please consider citing.
+
+```bibtex
+@article{huang2025highres,
+  title={High-Resolution Visual Reasoning via Multi-Turn Grounding-Based Reinforcement Learning},
+  author={Huang, Xinyu and Dong, Yuhao and Li, Wei and Wu, Jinming and Deng, Zihao and Li, Bo and Ma, Zejun},
+  url={https://github.com/xinyu1205/MGPO},
+  year={2025}
+}
+```
