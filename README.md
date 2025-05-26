@@ -20,14 +20,12 @@ Inspired by the human visual system's top-down, task-driven search, we propose *
 ## Experiments
 
 ### Visualizations
+<p align="center">
+  <img src="images/visualizations.jpg" width="800">
+</p>
 
 <p align="center">
- <table class="tg">
-  <tr>
-    <td class="tg-c3ow"><img src="images/visualizations.pdf" align="center" width="800" ></td>
-  </tr>
-</table>
-  <p align="center">(Examples of models trained with multi-turn grounding-based RL on high-resolution realworld tasks. The model first identifies key regions, which are then automatically cropped and returned as sub-images. Notably, despite only a binary reward function derived from the correctness of the final answer, the model gradually emerge robust grounding capability throughout the RL process.)</p>
+  (Examples of models trained with multi-turn grounding-based RL on high-resolution realworld tasks. The model first identifies key regions, which are then automatically cropped and returned as sub-images. Notably, despite only a binary reward function derived from the correctness of the final answer, the model gradually emerge robust grounding capability throughout the RL process.)
 </p>
 
 
@@ -38,12 +36,7 @@ Inspired by the human visual system's top-down, task-driven search, we propose *
 - Surpasses OpenAI’s o1 and GPT-4o on V* Bench, despite using a smaller model and less data.
 
 <p align="center">
- <table class="tg">
-  <tr>
-    <td class="tg-c3ow"><img src="images/visualizations.pdf" align="center" width="800" ></td>
-  </tr>
-</table>
-  <p align="center">(Examples of models trained with multi-turn grounding-based RL on high-resolution realworld tasks. The model first identifies key regions, which are then automatically cropped and returned as sub-images. Notably, despite only a binary reward function derived from the correctness of the final answer, the model gradually emerge robust grounding capability throughout the RL process.)</p>
+  <img src="images/results.webp" width="800">
 </p>
 
 
