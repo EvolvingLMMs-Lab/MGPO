@@ -21,7 +21,7 @@ Inspired by the human visual system's top-down, task-driven search, we propose *
 
 ### Visualizations
 <p align="center">
-  <img src="images/visualizations.jpg" width="800">
+  <img src="images/2.png" width="800">
 </p>
 
 <p align="center">
@@ -36,7 +36,7 @@ Inspired by the human visual system's top-down, task-driven search, we propose *
 - Surpasses OpenAI’s o1 and GPT-4o on V* Bench, despite using a smaller model and less data.
 
 <p align="center">
-  <img src="images/results.webp" width="800">
+  <img src="images/7.png" width="800">
 </p>
 
 
