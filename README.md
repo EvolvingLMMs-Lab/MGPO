@@ -54,7 +54,7 @@ If you find our work to be useful for your research, please consider citing.
 @article{huang2025highres,
   title={High-Resolution Visual Reasoning via Multi-Turn Grounding-Based Reinforcement Learning},
   author={Huang, Xinyu and Dong, Yuhao and Li, Wei and Wu, Jinming and Deng, Zihao and Li, Bo and Ma, Zejun},
-  url={https://github.com/xinyu1205/MGPO},
+  url={https://github.com/EvolvingLMMs-Lab/MGPO},
   year={2025}
 }
 ```
