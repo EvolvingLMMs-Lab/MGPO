@@ -1,6 +1,7 @@
 # High-Resolution Visual Reasoning via Multi-Turn Grounding-Based Reinforcement Learning
 
 [![MGPO](https://img.shields.io/badge/Blog-MGPO-blue)](https://www.lmms-lab.com/posts/highres_visual_reasoning)
+[![MGPO](https://img.shields.io/badge/Paper-MGPO-red)](images/Multi_Turn_Grounding_RL.pdf)
 
 <!-- Authors: [Xinyu Huang](https://xinyu1205.github.io/), [Yuhao Dong](https://scholar.google.com/citations?user=kMui170AAAAJ&hl=zh-CN), Wei Li, Jinming Wu, Zihao Deng, [Bo Li](https://brianboli.com/), Zejun Ma -->
 
