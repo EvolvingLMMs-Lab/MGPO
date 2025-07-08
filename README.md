@@ -1,12 +1,12 @@
 # High-Resolution Visual Reasoning via Multi-Turn Grounding-Based Reinforcement Learning
 
-[![MGPO](https://img.shields.io/badge/Blog-MGPO-blue)](https://www.lmms-lab.com/posts/highres_visual_reasoning)
-[![MGPO](https://img.shields.io/badge/Paper-MGPO-red)](images/Multi_Turn_Grounding_RL.pdf)
+[![MGPO](https://img.shields.io/badge/Paper-MGPO-red)](images/Multi_Turn_Grounding_RL.pdf) [![MGPO](https://img.shields.io/badge/Blog-MGPO-blue)](https://www.lmms-lab.com/posts/highres_visual_reasoning)
+
 
 <!-- Authors: [Xinyu Huang](https://xinyu1205.github.io/), [Yuhao Dong](https://scholar.google.com/citations?user=kMui170AAAAJ&hl=zh-CN), Wei Li, Jinming Wu, Zihao Deng, [Bo Li](https://brianboli.com/), Zejun Ma -->
 
 
-## Introduction
+## 💡 Introduction
 
 Inspired by the human visual system's top-down, task-driven search, we propose **Multi-turn Grounding-based Policy Optimization (MGPO)**. MGPO equips LMMs with interpretable, iterative visual grounding: the model predicts key regions, crops sub-images, and reasons over both the original and focused views.
 
@@ -15,10 +15,15 @@ Inspired by the human visual system's top-down, task-driven search, we propose *
 - **Breaks Pixel Limits:** Even if the full image is blurry due to resizing, MGPO identifies and crops clear sub-images for further analysis.
 - **No Extra Grounding Annotations Needed:** MGPO is trained only with binary answer correctness, yet learns robust grounding.
 
+## 🚀 Training Code
 
----
+Our code is based on verl, training code and script are available at 
 
-## Experiments
+https://github.com/xinyu1205/verl/blob/mgpo/examples/grpo_trainer/run_qwen2_5_vl-7b_mgpo.sh
+
+
+
+## 🧰 Experiments
 
 ### Visualizations
 <p align="center">
@@ -41,14 +46,8 @@ Inspired by the human visual system's top-down, task-driven search, we propose *
 </p>
 
 
-## Training Code
 
-Our code is based on verl, training code and script are available at 
-
-https://github.com/xinyu1205/verl/blob/mgpo/examples/grpo_trainer/run_qwen2_5_vl-7b_mgpo.sh
-
-
-## Citation
+## ✒️ Citation
 If you find our work to be useful for your research, please consider citing.
 
 ```bibtex
