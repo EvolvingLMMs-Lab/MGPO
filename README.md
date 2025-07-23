@@ -1,6 +1,6 @@
 # High-Resolution Visual Reasoning via Multi-Turn Grounding-Based Reinforcement Learning
 
-[![MGPO](https://img.shields.io/badge/Paper-MGPO-red)](https://arxiv.org/abs/2507.05920) [![MGPO](https://img.shields.io/badge/Blog-MGPO-blue)](https://www.lmms-lab.com/posts/highres_visual_reasoning)
+[![MGPO](https://img.shields.io/badge/Paper-MGPO-red)](https://arxiv.org/abs/2507.05920) [![MGPO](https://img.shields.io/badge/Blog-MGPO-blue)](https://www.lmms-lab.com/posts/highres_visual_reasoning) [![机器之心](https://img.shields.io/badge/公众号-机器之心-green)](https://mp.weixin.qq.com/s/K_MOiW2wgVGf5tkjSleyKQ) 
 
 
 <!-- Authors: [Xinyu Huang](https://xinyu1205.github.io/), [Yuhao Dong](https://scholar.google.com/citations?user=kMui170AAAAJ&hl=zh-CN), Wei Li, Jinming Wu, Zihao Deng, [Bo Li](https://brianboli.com/), Zejun Ma -->
